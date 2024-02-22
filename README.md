@@ -1,3 +1,3 @@
 # KoosLaserProject
 ---
-### Link: 
+### Link: [Web](https://koosbalazsbence.github.io/KoosLaserProject/)
